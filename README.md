@@ -4,4 +4,8 @@ This is the original Limit Theory Prototype, a pre-alpha demo released to Kickst
 
 Source code for this demo has long since been lost, however the installer is still alive and working!
 
-You can download the installer here: https://github.com/JoshParnell/ltprototype/releases/download/v1.0/LTPInstaller.exe .
+# Installation Instructions
+
+ - Download and run the LTP 1.0 installer from https://github.com/JoshParnell/ltprototype/releases/download/v1.0/LTPInstaller.exe
+ - After installing LTP, download and run the 1.1 patch from https://github.com/JoshParnell/ltprototype/releases/download/v1.1/LTP.1.1.Update.exe
+ - Done!
