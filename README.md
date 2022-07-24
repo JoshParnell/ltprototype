@@ -6,6 +6,6 @@ Source code for this demo has long since been lost, however the installer is sti
 
 # Installation Instructions
 
- - Download and run the LTP 1.0 installer from https://github.com/JoshParnell/ltprototype/releases/download/v1.0/LTPInstaller.exe
+ - Download and run the LTP 1.0 installer from https://github.com/JoshParnell/ltprototype/releases/download/v1.1/LTPInstaller.exe
  - After installing LTP, download and run the 1.1 patch from https://github.com/JoshParnell/ltprototype/releases/download/v1.1/LTP.1.1.Update.exe
  - Done!
